@@ -1,0 +1,31 @@
+xcvhjk
+
+Thrust and mass flow rates
+------------------------------------------
+   Chamber thrust (vac):    3.86688     kN
+ Specific impulse (vac):  295.44259      s
+   Chamber thrust (opt):    3.48619     kN
+ Specific impulse (opt):  266.35623      s
+   Total mass flow rate:    1.33465   kg/s
+Oxidizer mass flow rate:    0.92272   kg/s
+    Fuel mass flow rate:    0.41193   kg/s
+
+Geometry of thrust chamber with parabolic nozzle
+------------------------------------------
+    Dc =   99.18  mm       b =   30.00 deg
+    R2 =  127.07  mm      R1 =   19.41  mm
+    L* = 1165.49  mm
+    Lc =  123.28  mm    Lcyl =   20.55  mm
+    Dt =   25.88  mm
+    Rn =    4.94  mm      Tn =   20.89 deg
+    Le =   53.49  mm      Te =   16.64 deg
+    De =   62.33  mm
+ Ae/At =    5.80    
+ Le/Dt =    2.07    
+Le/c15  =   77.89 % (relative to length of cone nozzle with Te=15 deg)
+
+  Mass =   -5.85  kg
+
+  Divergence efficiency:    0.98389       
+        Drag efficiency:    0.96544       
+     Thrust coefficient:    1.64144  (vac)
